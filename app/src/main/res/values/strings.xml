@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Paginas</string>
+    <string name="edt_nome">Digite seu nome</string>
+    <string name="edt_senha">Digite sua senha</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="txt_resultado"> </string>
+</resources>
